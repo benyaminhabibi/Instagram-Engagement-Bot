@@ -1,4 +1,4 @@
-# <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="25"/> Instagram Engagement Bot  # Instagram Engagement Bot
+# <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="25"/> # Instagram Engagement Bot
 A Python program to calculate the engagement rate of an Instagram account by analyzing the last few posts.   This project was developed as part of my Bachelor studies.
 
 ## Features
