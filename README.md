@@ -8,9 +8,8 @@ A Python program to calculate the engagement rate of an Instagram account by ana
 - Calculate engagement rate
 
 ## Requirements
-- Python 3.8+
-![Python](https://img.shields.io/badge/Python-3.10-blue)
-- Google Chrome
+![Python](https://img.shields.io/badge/Python-3.8+-blue)
+![Status](https://img.shields.io/badge/Google-Chrome-Installed-green)
 
 ## Installation
    ```bash
