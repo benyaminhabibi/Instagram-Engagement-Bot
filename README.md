@@ -13,7 +13,7 @@ A Python program to calculate the engagement rate of an Instagram account by ana
 
 ## Installation
    ```bash
-   git clone https://github.com/yourusername/instagram-engagement-bot.git
+   git clone https://github.com/benyaminhabibi/Instagram-Engagement-Bot.git
 
    cd instagram-engagement-bot
 
